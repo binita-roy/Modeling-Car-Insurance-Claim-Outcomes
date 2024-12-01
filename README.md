@@ -37,15 +37,18 @@ The dataset has been preprocessed to ensure it is suitable for modeling, with al
 ### 1. **Model Performance**
 - **Accuracy**: 84.77%
 - **Classification Report**:
+  <div align="center">
   | Metric       | Class 0 (No Claim) | Class 1 (Made a Claim) | Overall |
   |--------------|--------------------|------------------------|---------|
   | Precision    | 0.88               | 0.77                   | -       |
   | Recall       | 0.90               | 0.73                   | -       |
   | F1-score     | 0.89               | 0.75                   | -       |
   | Weighted Avg | -                  | -                      | 0.85    |
+</div>
 
 ### 2. **Feature Importance**
 The table below shows the features most influential in predicting claim outcomes:
+<div align="center">
 | Feature                      | Importance |
 |------------------------------|------------|
 | Driving Experience (30+ years) | 3.54       |
@@ -59,6 +62,7 @@ The table below shows the features most influential in predicting claim outcomes
 | Speeding Violations           | 0.15       |
 | Age Group (65+)               | 0.14       |
 
+</div>
 ---
 
 ## 📈 Visualizations
