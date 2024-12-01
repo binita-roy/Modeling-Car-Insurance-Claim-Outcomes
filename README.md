@@ -69,9 +69,9 @@ The table below shows the features most influential in predicting claim outcomes
 3. **Annual Mileage by Income Group and Claim Outcome**:  
    - This boxplot visualizes the relationship between income groups, annual mileage, and claim outcomes. It highlights trends and variations in mileage across different income levels and claim statuses.
 4. **Feature Importance Chart**:
-  - A bar plot showcasing the relative importance of features.
+   - A bar plot showcasing the relative importance of features.
 5. **Confusion Matrix**:
-  - Visualization of true vs. predicted values to highlight model accuracy.
+   - Visualization of true vs. predicted values to highlight model accuracy.
 
 ---
 
